@@ -246,8 +246,8 @@ main {
 }
 /* PROJECTS */
 .projects {
-    width: 30%;
-    margin: 0 0 10%5%;
+    width: 90%;
+    margin: 0 0 10% 5%;
     .projects-title {
         margin-bottom: 5%;
         h3 {
@@ -267,6 +267,7 @@ main {
                 font-size: 2em;
                 line-height: 1.2;
                 letter-spacing: 1px;
+                margin-bottom: 2%;
             }
             img {
                 width: 100%;
