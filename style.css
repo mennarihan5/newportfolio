@@ -44,6 +44,9 @@ header {
                     line-height: 1.2;
                     letter-spacing: 1px;
                 }
+                .nav-item:hover {
+                    color: #828282;
+                }
             }
         }
     }
@@ -119,7 +122,7 @@ main {
                 cursor: pointer;
             }
             .main-btn:hover {
-                background-color: #ebebebd8;
+                background-color: #828282;
                 color: #fff;
             }
         }
@@ -320,7 +323,7 @@ main {
         cursor: pointer;
     }
     .collaborations-btn:hover {
-        background-color: #ebebebd8;
+        background-color: #828282;
         color: #fff;
     }
 }
